@@ -1,0 +1,14 @@
+{
+  "testfiles": [
+    "utils/*.uts"
+  ],
+  "breakfailed": true,
+  "onlyfailed": true,
+  "format": "text",
+  "kw_ko": [
+    "osx",
+    "windows",
+    "crypto_advanced",
+    "ipv6"
+  ]
+}
